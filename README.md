@@ -1,6 +1,6 @@
-# pyopencl_mandelbrot_fractal
+# Mandelbrot set fractals in Python and OpenCL
 
-**This Python project leverages the power of OpenCL to render the Mandelbrot set fractal in real-time. By offloading the computationally intensive task to the GPU, it achieves significant performance gains compared to pure CPU-based implementations.**
+**This Python project to render the Mandelbrot set fractal in real-time using OpenCL. By offloading the computationally intensive task to the GPU, it achieves significant performance gains compared to pure CPU-based implementations.**
 
 ## Getting started
 ```
