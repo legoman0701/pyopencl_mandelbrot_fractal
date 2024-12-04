@@ -32,3 +32,6 @@ Transfers the rendered image data from device memory back to the host.
 Renders the image using a pygame.
 
 ## Images
+![main](https://github.com/legoman0701/pyopencl_mandelbrot_fractal/blob/main/images/Capture%20d’écran%20(2).png)
+![1](https://github.com/legoman0701/pyopencl_mandelbrot_fractal/blob/main/images/Capture%20d’écran%20(3).png)
+![2](https://github.com/legoman0701/pyopencl_mandelbrot_fractal/blob/main/images/Capture%20d’écran%20(4).png)
